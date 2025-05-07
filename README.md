@@ -1,5 +1,5 @@
-# asgmt-06-python-for-non-stem
-Assignment 06: Python for Non-STEM.
+# asgmt-07-python-for-non-stem
+Assignment 07: Python for Non-STEM.
 
 ## 練習題指引
 
